@@ -31,6 +31,7 @@ ul li {
   padding: 20px;
   margin-bottom: 2px;
   color: #bec8d9;
+  cursor: pointer;
 }
 
 ul li a {
